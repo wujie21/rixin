@@ -1,1 +1,1 @@
-rixin.github.io
+rixin
